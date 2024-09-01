@@ -69,48 +69,27 @@ The project produces several insightful visualizations, including but not limite
 
 ## Results and Insights
 
+![Figure_19](https://github.com/user-attachments/assets/04c0d2c3-b15f-40aa-ba8f-f101b1b8430f)
+![Figure_18](https://github.com/user-attachments/assets/fdaa4a1d-9a74-474b-a57a-3276e47c990e)
+![Figure_17](https://github.com/user-attachments/assets/a6561ee7-885f-4cfc-89be-d6f5a3cd66bb)
+![Figure_16](https://github.com/user-attachments/assets/ab9d87da-06d0-4acf-9701-14ec46ca11b9)
+![Figure_15](https://github.com/user-attachments/assets/6b431317-f8cd-4226-a593-2291d030eb70)
+![Figure_14](https://github.com/user-attachments/assets/79d2cd67-c6dd-441c-b3b1-be707700adcb)
+![Figure_13](https://github.com/user-attachments/assets/d0811b03-82f4-461c-b1fe-cbc1349a9efa)
+![Figure_12](https://github.com/user-attachments/assets/2bf37b7c-824e-405a-9134-960586169a70)
+![Figure_11](https://github.com/user-attachments/assets/0c670d99-032d-4b2c-bd7c-abb22ced1cee)
+![Figure_10](https://github.com/user-attachments/assets/a5c9ebae-6240-42de-8930-ee94a7fbbd95)
+![Figure_9](https://github.com/user-attachments/assets/ba978c88-7225-47d3-b945-582c4054d2a9)
+![Figure_8](https://github.com/user-attachments/assets/a9cad707-9cfd-4c4e-8891-4291a11590d0)
+![Figure_7](https://github.com/user-attachments/assets/addcb453-177a-4ac9-9d38-5111d16ea158)
+![Figure_6](https://github.com/user-attachments/assets/b077dba8-397e-4fb2-9e4f-d35e278dcdce)
+![Figure_5](https://github.com/user-attachments/assets/17e8d014-fcfb-4d0a-a9d8-7a1e957a5ae4)
+![Figure_4](https://github.com/user-attachments/assets/e1d2e65e-df6b-410d-8b5a-28eddefcee01)
+![Figure_3](https://github.com/user-attachments/assets/7610703d-ec7e-47f1-b7cc-ae433bb52cf5)
+![Figure_2](https://github.com/user-attachments/assets/e6800338-417e-4792-b313-c9df866a977e)
+![Figure_1](https://github.com/user-attachments/assets/d0f0f9e3-9383-4473-bd36-e556d205ddf4)
 
-The visualizations and analysis reveal significant patterns, such as:
  
-
- ![Figure_1](https://github.com/user-attachments/assets/90a5a584-7d6f-4b59-b950-fc91f938b0f3)
-  
- ![Figure_2](https://github.com/user-attachments/assets/35e50d9a-f01a-4bb1-bebd-f4fac173fa67)
- 
- ![Figure_3](https://github.com/user-attachments/assets/0bb2a4c3-7b27-4327-a1af-1598bf6b7732)
- 
- ![Figure_4](https://github.com/user-attachments/assets/c6b9f468-4b69-4599-80f6-16641154dd9e)
- 
- ![Figure_5](https://github.com/user-attachments/assets/e1d8ec80-d650-403f-93bd-be9775b06afa)
-
- ![Figure_6](https://github.com/user-attachments/assets/99d4a26e-d98f-4068-9241-35ee3e789e15)
- 
- ![Figure_7](https://github.com/user-attachments/assets/43782579-30d1-475e-932f-e0ec42579173)
- 
- ![Figure_8](https://github.com/user-attachments/assets/1800a291-35e5-48ce-9380-2b1877cdc557)
-  
- ![Figure_9](https://github.com/user-attachments/assets/22c6a6b5-2f4c-46b2-ada8-d51eaaa34b53)
- 
- ![Figure_10](https://github.com/user-attachments/assets/7cbb07d0-97e2-471c-86d2-ffd9f3be83f1)
-  
- ![Figure_11](https://github.com/user-attachments/assets/c8151cfa-abba-4cbc-960f-f89a53324f7c)
-  
- ![Figure_12](https://github.com/user-attachments/assets/845a9866-2a0f-4d86-99d4-955f17be4b54)
-  
- ![Figure_13](https://github.com/user-attachments/assets/67507c44-52ad-401a-873c-5b90251fb957)
- 
- ![Figure_14](https://github.com/user-attachments/assets/a23c5ffd-bf55-41d6-b21b-73ad813ba5f2)
-  
- ![Figure_15](https://github.com/user-attachments/assets/ace9938b-3964-4429-9540-4a4f06755353)
-  
- ![Figure_16](https://github.com/user-attachments/assets/768db153-3330-48c7-b568-845622e46b3c)
- 
- ![Figure_17](https://github.com/user-attachments/assets/4a0ddb0b-b2fb-41f8-9ee0-22aaa071d90e)
- 
- ![Figure_18](https://github.com/user-attachments/assets/470637c7-c812-4fd9-9537-ab3192cbe5c5)
- 
- ![Figure_19](https://github.com/user-attachments/assets/5011f8d4-ea27-4f2a-b62a-0f0d7c044a2f)
-
 
  
 These insights can serve as the basis for developing predictive models to estimate the likelihood of survival based on the features provided.
